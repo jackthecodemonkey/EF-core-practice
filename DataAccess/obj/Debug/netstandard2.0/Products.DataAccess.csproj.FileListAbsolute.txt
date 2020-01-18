@@ -1,0 +1,11 @@
+C:\Users\jacka\Desktop\Practice\DataAccess\obj\Debug\netstandard2.0\Products.DataAccess.csprojAssemblyReference.cache
+C:\Users\jacka\Desktop\Practice\DataAccess\obj\Debug\netstandard2.0\Products.DataAccess.AssemblyInfoInputs.cache
+C:\Users\jacka\Desktop\Practice\DataAccess\obj\Debug\netstandard2.0\Products.DataAccess.AssemblyInfo.cs
+C:\Users\jacka\Desktop\Practice\DataAccess\bin\Debug\netstandard2.0\Products.DataAccess.deps.json
+C:\Users\jacka\Desktop\Practice\DataAccess\bin\Debug\netstandard2.0\Products.DataAccess.dll
+C:\Users\jacka\Desktop\Practice\DataAccess\bin\Debug\netstandard2.0\Products.DataAccess.pdb
+C:\Users\jacka\Desktop\Practice\DataAccess\bin\Debug\netstandard2.0\Products.Data.dll
+C:\Users\jacka\Desktop\Practice\DataAccess\bin\Debug\netstandard2.0\Products.Data.pdb
+C:\Users\jacka\Desktop\Practice\DataAccess\obj\Debug\netstandard2.0\Products.DataAccess.csproj.CopyComplete
+C:\Users\jacka\Desktop\Practice\DataAccess\obj\Debug\netstandard2.0\Products.DataAccess.dll
+C:\Users\jacka\Desktop\Practice\DataAccess\obj\Debug\netstandard2.0\Products.DataAccess.pdb

@@ -1,0 +1,7 @@
+C:\Users\jacka\Desktop\Practice\Product.Data\bin\Debug\netstandard2.0\Product.Data.deps.json
+C:\Users\jacka\Desktop\Practice\Product.Data\bin\Debug\netstandard2.0\Product.Data.dll
+C:\Users\jacka\Desktop\Practice\Product.Data\obj\Debug\netstandard2.0\Product.Data.AssemblyInfoInputs.cache
+C:\Users\jacka\Desktop\Practice\Product.Data\obj\Debug\netstandard2.0\Product.Data.AssemblyInfo.cs
+C:\Users\jacka\Desktop\Practice\Product.Data\bin\Debug\netstandard2.0\Product.Data.pdb
+C:\Users\jacka\Desktop\Practice\Product.Data\obj\Debug\netstandard2.0\Product.Data.dll
+C:\Users\jacka\Desktop\Practice\Product.Data\obj\Debug\netstandard2.0\Product.Data.pdb
