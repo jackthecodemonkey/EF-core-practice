@@ -1,11 +1,11 @@
-﻿using DataAccess;
-using Products.Data.Models;
+﻿using Products.Data.Models;
 using Products.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
+using DataAccess;
 
 namespace Products.Services.Implementation
 {
@@ -37,6 +37,11 @@ namespace Products.Services.Implementation
 
         public async Task<Product> AddProduct(Product product)
         {
+            if (product == null)
+            {
+                throw new ArgumentNullException(nameof(product), "No product id provided");
+            }
+            product.Id = Guid.NewGuid();
             var newProduct = database.Product.Add(product);
             var insertCount = await database.SaveChangesAsync();
             return insertCount == 0 ? null : newProduct.Entity;

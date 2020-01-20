@@ -1,3 +1,0 @@
-C:\Users\jacka\Desktop\Practice\DataAccess\obj\Debug\netstandard2.0\Product.DataAccess.csprojAssemblyReference.cache
-C:\Users\jacka\Desktop\Practice\DataAccess\obj\Debug\netstandard2.0\Product.DataAccess.AssemblyInfoInputs.cache
-C:\Users\jacka\Desktop\Practice\DataAccess\obj\Debug\netstandard2.0\Product.DataAccess.AssemblyInfo.cs

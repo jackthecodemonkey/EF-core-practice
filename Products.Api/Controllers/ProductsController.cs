@@ -12,10 +12,12 @@ namespace Products.Api.Controllers
     public class ProductsController : ControllerBase
     {
         private readonly IProductService productService;
+        private readonly IProductOptionService productOptionService;
 
-        public ProductsController(IProductService productService)
+        public ProductsController(IProductService productService, IProductOptionService productOptionService)
         {
             this.productService = productService;
+            this.productOptionService = productOptionService;
         }
 
         /// <summary>
@@ -86,7 +88,8 @@ namespace Products.Api.Controllers
         [HttpDelete("{id}")]
         public async Task<ActionResult> Delete(Guid id)
         {
-           await productService.DeleteProduct(id);
+            await productOptionService.RemoveProductOptions(id);
+            await productService.DeleteProduct(id);
            return NoContent();
         }
 
