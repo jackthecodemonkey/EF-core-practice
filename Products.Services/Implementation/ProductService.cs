@@ -17,7 +17,7 @@ namespace Products.Services.Implementation
             database = productContext;
         }
 
-        public async Task<ICollection<Product>> RetrieveProducts(string? name)
+        public async Task<ICollection<Product>> RetrieveProducts(string name = null)
         {
             if (name != null)
             {

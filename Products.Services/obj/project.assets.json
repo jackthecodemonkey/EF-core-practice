@@ -1137,9 +1137,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\jacka\\Desktop\\Practice\\ClassLibrary1\\Products.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\jacka\\Desktop\\Practice\\ClassLibrary1\\Products.DataAccess.csproj"
-            },
             "C:\\Users\\jacka\\Desktop\\Practice\\Product.DataAccess\\Products.DataAccess.csproj": {
               "projectPath": "C:\\Users\\jacka\\Desktop\\Practice\\Product.DataAccess\\Products.DataAccess.csproj"
             },
